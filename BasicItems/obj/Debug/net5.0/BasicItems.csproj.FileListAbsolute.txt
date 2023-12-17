@@ -1,0 +1,12 @@
+D:\Projects\SmallShop\SmallShop\BasicItems\bin\Debug\net5.0\BasicItems.deps.json
+D:\Projects\SmallShop\SmallShop\BasicItems\bin\Debug\net5.0\BasicItems.dll
+D:\Projects\SmallShop\SmallShop\BasicItems\bin\Debug\net5.0\BasicItems.pdb
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.csproj.AssemblyReference.cache
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.AssemblyInfoInputs.cache
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.AssemblyInfo.cs
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.csproj.CoreCompileInputs.cache
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.dll
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\refint\BasicItems.dll
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\BasicItems.pdb
+D:\Projects\SmallShop\SmallShop\BasicItems\obj\Debug\net5.0\ref\BasicItems.dll
